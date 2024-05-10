@@ -1,1 +1,1 @@
-cs5008 with Prof. Lee
+xinyuli li.xinyu8@northeastern.edu
