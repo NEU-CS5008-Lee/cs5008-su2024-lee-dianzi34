@@ -4,7 +4,7 @@
 // email: jeo.lee@northeastern.edu
 
 int main() {
-  printf("ello World.  This is [YourName].\n");
-  printf("I am assignment 1 for [This Semester].\n");
+  printf("Hello World. This is Xinyu Li.\n");
+  printf("I am assignment 1 for summer 2024.\n");
   return 0;
 }
